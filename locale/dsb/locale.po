@@ -1,0 +1,23 @@
+# Dean Ting <dqq118@gmail.com>, 2026.
+msgid ""
+msgstr ""
+"Language: dsb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+msgid "plugins.generic.copyPublicationInformation.displayName"
+msgstr "Publikaciske informacije kopěrowaś"
+
+msgid "plugins.generic.copyPublicationInformation.description"
+msgstr "Toś ten tykac pśidawa tłocašk za kopěrowanje publikaciskich informacijow na bok artikla. Klikniśo na nj, aby publikaciske informacije artikla z jadnym kliknjenim skopěrowali."
+
+msgid "plugins.generic.copyPublicationInformation.label"
+msgstr "Publikaciske informacije"
+
+msgid "plugins.generic.copyPublicationInformation.button.label"
+msgstr "Publikaciske informacije kopěrowaś"
+
+msgid "plugins.generic.copyPublicationInformation.success"
+msgstr "Skopěrowane"
