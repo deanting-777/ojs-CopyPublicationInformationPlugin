@@ -1,5 +1,5 @@
 # ojs-Copy Publication Information Plugin
-Copy Publication Information Plugin for Open Journal Systems. Adds a “Copy Publication Information” button to article pages, allowing users to copy all published article information with a single click.Once installed and enabled,the plugin automatically adds a button to each article page. Clicking it copies the article’s publication metadata to the clipboard, including the title, journal name, author(s), DOI, keywords, abstract, article URL, PDF URL, and “How to Cite” information.  
+Copy Publication Information Plugin for Open Journal Systems. Adds a “Copy Publication Information” button to article pages, allowing users to copy all published article information with a single click.Once installed and enabled,the plugin automatically adds a button to each article page. Clicking it copies the article’s publication metadata to the clipboard, including the article title, journal name, author(s), DOI, keywords, abstract, article URL, full-text PDF URL, “How to Cite” information, and other relevant metadata.
 
 Compatible with OJS 3.5.  
 
